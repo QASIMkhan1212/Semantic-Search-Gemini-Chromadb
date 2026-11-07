@@ -15,7 +15,7 @@ applying it end-to-end with Google's Gemini embedding model and ChromaDB.
 - Reduces high-dimensional embeddings to 3D using PCA for visualization
 - Stores embeddings in a local ChromaDB collection
 - Runs semantic search queries that match by meaning, not keyword overlap
-  (e.g. querying `"electronics"` returns smartphone-related sentences with
+  (e.g. querying `"jungle"` returns smartphone-related sentences with
   zero literal word overlap)
 
 ## Tech stack
